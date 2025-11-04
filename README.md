@@ -1,5 +1,3 @@
-# javascript
-<!DOCTYPE html>
 <html lang="eu">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
